@@ -1,0 +1,26 @@
+"tecnologia","posicao_ranking","codigo_cnae","categoria","asimetria_pp","aviso_cv","is_cnae26"
+"Big Data",1,"26","Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",13.4,"CV alto",TRUE
+"Big Data",2,"18","Impressão e reprodução de gravações",6.7,"CV alto",FALSE
+"Big Data",3,"30","Fabricação de outros equipamentos de transporte",6.2,"CV alto",FALSE
+"Cloud",1,"15","Preparação de couros e fabricação de artefatos de couro, artigos de viagem e calçados",18.9,"OK",FALSE
+"Cloud",2,"26","Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",17.2,"OK",TRUE
+"Cloud",3,"19","Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",10.5,"OK",FALSE
+"Cloud",4,"30","Fabricação de outros equipamentos de transporte",10.1,"OK",FALSE
+"IA",1,"26","Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",32.9,"OK",TRUE
+"IA",2,"32","Fabricação de produtos diversos",21.9,"CV alto",FALSE
+"IA",3,"13","Fabricação de produtos têxteis",18.5,"CV alto",FALSE
+"IoT",6,"31","Fabricação de móveis",-0.9,"OK",FALSE
+"IoT",7,"18","Impressão e reprodução de gravações",-1.1,"OK",FALSE
+"IoT",8,"26","Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",-1.7,"OK",TRUE
+"IoT",9,"29","Fabricação de veículos automotores, reboques e carrocerias",-2.2,"OK",FALSE
+"IoT",10,"15","Preparação de couros e fabricação de artefatos de couro, artigos de viagem e calçados",-3.6,"OK",FALSE
+"Manufatura aditiva",7,"29","Fabricação de veículos automotores, reboques e carrocerias",13.2,"OK",FALSE
+"Manufatura aditiva",8,"22","Fabricação de artigos de borracha e plástico",11.7,"CV alto",FALSE
+"Manufatura aditiva",9,"26","Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",10.3,"OK",TRUE
+"Manufatura aditiva",10,"20","Fabricação de produtos químicos",7.6,"CV alto",FALSE
+"Manufatura aditiva",11,"23","Fabricação de produtos de minerais não-metálicos",5.7,"CV alto",FALSE
+"Robótica",14,"17","Fabricação de celulose, papel e produtos de papel",-12.1,"CV alto",FALSE
+"Robótica",15,"27","Fabricação de máquinas, aparelhos e materiais elétricos",-12.2,"OK",FALSE
+"Robótica",16,"26","Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",-12.4,"CV alto",TRUE
+"Robótica",17,"32","Fabricação de produtos diversos",-12.6,"CV alto",FALSE
+"Robótica",18,"25","Fabricação de produtos de metal",-13,"OK",FALSE

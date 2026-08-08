@@ -1,0 +1,23 @@
+"tecnologia","posicao_ranking","codigo_cnae","categoria","asimetria_pp","aviso_cv","is_cnae26"
+"Big Data",22,"30","Fabricação de outros equipamentos de transporte",-5.4,"CV alto",FALSE
+"Big Data",23,"24","Metalurgia",-8.5,"OK",FALSE
+"Big Data",24,"26","Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",-8.5,"CV alto",TRUE
+"Cloud",22,"15","Preparação de couros e fabricação de artefatos de couro, artigos de viagem e calçados",3,"OK",FALSE
+"Cloud",23,"19","Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",1.8,"OK",FALSE
+"Cloud",24,"26","Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",-4.1,"OK",TRUE
+"IA",15,"16","Fabricação de produtos de madeira",4.8,"CV alto",FALSE
+"IA",16,"15","Preparação de couros e fabricação de artefatos de couro, artigos de viagem e calçados",3.6,"CV alto",FALSE
+"IA",17,"26","Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",3.5,"OK",TRUE
+"IA",18,"28","Fabricação de máquinas e equipamentos",3.4,"OK",FALSE
+"IA",19,"13","Fabricação de produtos têxteis",2,"OK",FALSE
+"IoT",21,"24","Metalurgia",-7.2,"CV alto",FALSE
+"IoT",22,"21","Fabricação de produtos farmoquímicos e farmacêuticos",-8.3,"OK",FALSE
+"IoT",23,"26","Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",-8.5,"OK",TRUE
+"IoT",24,"28","Fabricação de máquinas e equipamentos",-9,"OK",FALSE
+"Manufatura aditiva",22,"27","Fabricação de máquinas, aparelhos e materiais elétricos",-37.8,"CV alto",FALSE
+"Manufatura aditiva",23,"32","Fabricação de produtos diversos",-40.3,"CV alto",FALSE
+"Manufatura aditiva",24,"26","Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",-40.6,"CV alto",TRUE
+"Robótica",21,"29","Fabricação de veículos automotores, reboques e carrocerias",-18,"OK",FALSE
+"Robótica",22,"27","Fabricação de máquinas, aparelhos e materiais elétricos",-19.7,"OK",FALSE
+"Robótica",23,"26","Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",-23.6,"CV alto",TRUE
+"Robótica",24,"30","Fabricação de outros equipamentos de transporte",-25.9,"CV alto",FALSE

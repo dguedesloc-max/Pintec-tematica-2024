@@ -1,0 +1,26 @@
+"tecnologia","posicao_ranking","categoria","asimetria_pp","aviso_cv","is_cnae26"
+"Big Data",3,"Fabricação de produtos do fumo",9.1,"CV alto",FALSE
+"Big Data",4,"Fabricação de máquinas e equipamentos",5.3,"OK",FALSE
+"Big Data",5,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",4.9,"CV alto",TRUE
+"Big Data",6,"Preparação de couros e fabricação de artefatos de couro, artigos de viagem e calçados",4.5,"CV alto",FALSE
+"Big Data",7,"Fabricação de veículos automotores, reboques e carrocerias",3.3,"OK",FALSE
+"Cloud",18,"Fabricação de produtos químicos",14.2,"OK",FALSE
+"Cloud",19,"Fabricação de produtos farmoquímicos e farmacêuticos",14.1,"OK",FALSE
+"Cloud",20,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",13.1,"OK",TRUE
+"Cloud",21,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",12.3,"OK",FALSE
+"Cloud",22,"Metalurgia",12,"OK",FALSE
+"IA",1,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",36.4,"OK",TRUE
+"IA",2,"Fabricação de produtos diversos",28.8,"CV alto",FALSE
+"IA",3,"Fabricação de máquinas e equipamentos",21.5,"OK",FALSE
+"IoT",15,"Fabricação de máquinas e equipamentos",-5.1,"OK",FALSE
+"IoT",16,"Fabricação de produtos químicos",-6.9,"OK",FALSE
+"IoT",17,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",-10.2,"OK",TRUE
+"IoT",18,"Fabricação de produtos alimentícios",-11.8,"OK",FALSE
+"IoT",19,"Fabricação de celulose, papel e produtos de papel",-11.9,"CV alto",FALSE
+"Manufatura aditiva",22,"Fabricação de bebidas",-15.5,"Sem dado",FALSE
+"Manufatura aditiva",23,"Fabricação de produtos diversos",-15.6,"CV alto",FALSE
+"Manufatura aditiva",24,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",-30.3,"CV alto",TRUE
+"Robótica",21,"Fabricação de veículos automotores, reboques e carrocerias",-29.6,"OK",FALSE
+"Robótica",22,"Fabricação de máquinas, aparelhos e materiais elétricos",-31.9,"OK",FALSE
+"Robótica",23,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",-36,"OK",TRUE
+"Robótica",24,"Fabricação de outros equipamentos de transporte",-37.6,"CV alto",FALSE

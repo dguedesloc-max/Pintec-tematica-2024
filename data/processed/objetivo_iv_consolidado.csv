@@ -1,0 +1,7 @@
+"tecnologia","adocao_administracao","adocao_projeto","adocao_producao","abrangente_administracao","abrangente_projeto","abrangente_producao","admin_projeto_asimetria_pp","projeto_producao_asimetria_pp","admin_projeto_z_score","projeto_producao_z_score","admin_projeto_percentil","projeto_producao_percentil","admin_projeto_aviso_cv","projeto_producao_aviso_cv","adocao_projeto_mais_perto_de","abrangente_projeto_mais_perto_de"
+"Big Data",24.5,33,19.6,51.7,36.7,58.7,-8.5,13.4,-2.07,2.93,8,100,"CV alto","CV alto","Administração","Administração"
+"Cloud",80.8,84.9,67.7,40.8,27,23.3,-4.1,17.2,-2.19,1.8,4,96,"OK","OK","Administração","Produção"
+"IA",63.7,60.2,27.3,10.8,27.6,8.3,3.5,32.9,-0.5,2.89,33,100,"OK","OK","Administração","Administração"
+"IoT",42.4,50.9,52.6,32.3,23.9,18.4,-8.5,-1.7,-1.59,0.74,8,71,"OK","OK","Produção","Produção"
+"Manufatura aditiva",4.4,45,34.7,51.4,20.2,8.1,-40.6,10.3,-1.9,0.26,4,67,"CV alto","OK","Produção","Produção"
+"Robótica",0.6,24.2,36.6,0,30.2,32.5,-23.6,-12.4,-1.96,-0.18,8,38,"CV alto","CV alto","Produção","Produção"

@@ -1,0 +1,145 @@
+"tecnologia","asimetria_admin_producao_pp","asimetria_admin_projeto_pp","asimetria_projeto_producao_pp","categoria","administracao","cv_administracao","producao","cv_producao","projeto","cv_projeto"
+"Big Data",1.7,2.8,-1.1,"Fabricação de produtos alimentícios",22.5,15.5035448849827,20.8,16.3784248098806,19.7,16.7839199658852
+"Big Data",1.6,0,1.6,"Fabricação de bebidas",32.2,26.9203047666479,30.6,28.5659124509379,32.2,26.9203047666479
+"Big Data",9.1,4.6,4.5,"Fabricação de produtos do fumo",18.3,18.2818106031795,9.2,27.1163072273338,13.7,24.3757474709054
+"Big Data",1.7,-0.4,2.1,"Fabricação de produtos têxteis",20.5,27.813762152141,18.8,29.9792407810585,20.9,28.2368989130206
+"Big Data",0.5,1.9,-1.4,"Confecção de artigos do vestuário e acessórios",39.5,19.330625236812,39,19.6719279660534,37.6,20.3255248693482
+"Big Data",4.5,1.8,2.7,"Preparação de couros e fabricação de artefatos de couro, artigos de viagem e calçados",28.1,23.3358539810673,23.6,26.5308246116275,26.3,24.6980686229411
+"Big Data",0.4,1.3,-0.9,"Fabricação de produtos de madeira",7,45.5039153182217,6.6,48.6004545319824,5.7,56.257030945418
+"Big Data",0,-2,2,"Fabricação de celulose, papel e produtos de papel",22.7,25.0754038788335,22.7,25.7885076849612,24.7,24.3125996186443
+"Big Data",2.7,-4,6.7,"Impressão e reprodução de gravações",27,24.5125231070776,24.3,25.341702402994,31,22.5837811223256
+"Big Data",-3.9,0,-3.9,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",19.9,27.9890664960283,23.8,26.4123656718216,19.9,27.9890664960283
+"Big Data",2.1,-1.3,3.4,"Fabricação de produtos químicos",41,15.5037528123443,38.9,16.0209396173952,42.3,15.0254165585874
+"Big Data",14.4,10.3,4.1,"Fabricação de produtos farmoquímicos e farmacêuticos",38.8,19.19615973888,24.4,24.7734179044527,28.5,22.6747675423338
+"Big Data",-1.9,0.9,-2.8,"Fabricação de artigos de borracha e plástico",13,28.9355751069595,14.9,27.4874891890027,12.1,28.6490406577734
+"Big Data",-0.1,1.8,-1.9,"Fabricação de produtos de minerais não-metálicos",18.8,23.8832548997759,18.9,24.8071427870834,17,25.7098558905928
+"Big Data",-4.6,-8.5,3.9,"Metalurgia",25.9,23.0929802587943,30.5,21.6440340337627,34.4,20.4987571714978
+"Big Data",1.6,7.4,-5.8,"Fabricação de produtos de metal",24.6,22.1315027842887,23,22.189146695475,17.2,26.8271568526057
+"Big Data",4.9,-8.5,13.4,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",24.5,26.1020411464258,19.6,26.1772140416373,33,22.5132061318676
+"Big Data",9.6,6.2,3.4,"Fabricação de máquinas, aparelhos e materiais elétricos",31.1,18.1478367034219,21.5,22.4367095623786,24.9,20.0657501913031
+"Big Data",5.3,3.4,1.9,"Fabricação de máquinas e equipamentos",36.2,14.9471494970026,30.9,17.009685761642,32.8,15.7728848180007
+"Big Data",3.3,2.2,1.1,"Fabricação de veículos automotores, reboques e carrocerias",29.9,20.3256211008932,26.6,21.6105643609028,27.7,21.0544623166512
+"Big Data",0.8,-5.4,6.2,"Fabricação de outros equipamentos de transporte",29,38.3032311470932,28.2,39.4280338816324,34.4,33.3077438976462
+"Big Data",0.3,0.8,-0.5,"Fabricação de móveis",21,26.4078200030723,20.7,26.7392894327916,20.2,27.4278346212457
+"Big Data",0,-1.5,1.5,"Fabricação de produtos diversos",24.5,27.6231091024021,24.5,27.6231091024021,26,26.1300344308847
+"Big Data",0.6,0.3,0.3,"Manutenção, reparação e instalação de máquinas e equipamentos",5.3,52.4550320023754,4.7,58.8340179926658,5,55.4617061924983
+"Cloud",15.7,17.7,-2,"Fabricação de produtos alimentícios",71.7,6.75703235528281,56,8.69118592142909,54,9.03620162401732
+"Cloud",15.3,14,1.3,"Fabricação de bebidas",78.3,11.1666552352768,63,14.8373552149336,64.3,15.0455434256135
+"Cloud",22.9,27.5,-4.6,"Fabricação de produtos do fumo",68.7,6.16663053417211,45.8,9.24994580125833,41.2,10.2777175569536
+"Cloud",18,11.3,6.7,"Fabricação de produtos têxteis",71,9.73751988629822,53,13.9996974413105,59.7,12.4105010328943
+"Cloud",16.4,9.6,6.8,"Confecção de artigos do vestuário e acessórios",78.4,9.78623662332403,62,13.2588771749274,68.8,11.7199281209226
+"Cloud",21.9,3,18.9,"Preparação de couros e fabricação de artefatos de couro, artigos de viagem e calçados",64.7,11.8283997901748,42.8,17.711964306139,61.7,12.5856285652165
+"Cloud",11.9,24,-12.1,"Fabricação de produtos de madeira",63.9,12.1712064467475,52,15.6966288881616,39.9,19.1849208213644
+"Cloud",10,11.8,-1.8,"Fabricação de celulose, papel e produtos de papel",64.7,11.0506104061537,54.7,13.7861550588025,52.9,13.8735141584288
+"Cloud",16.1,17.4,-1.3,"Impressão e reprodução de gravações",82.4,6.96248711839997,66.3,10.781363726908,65,10.8873499479649
+"Cloud",12.3,1.8,10.5,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",71.4,10.4883548516525,59.1,13.0643645165891,69.6,10.9767306590944
+"Cloud",14.2,10.2,4,"Fabricação de produtos químicos",87.6,5.86849263102157,73.4,8.18598414508247,77.4,7.44718800536893
+"Cloud",14.1,13.9,0.2,"Fabricação de produtos farmoquímicos e farmacêuticos",77.5,9.02363254350955,63.4,11.9544471956852,63.6,11.9009724989399
+"Cloud",19.3,22.7,-3.4,"Fabricação de artigos de borracha e plástico",74.7,7.03048260178617,55.4,10.8801467519659,52,11.3137503526202
+"Cloud",19.2,12.5,6.7,"Fabricação de produtos de minerais não-metálicos",74.6,8.45085500256568,55.4,12.2217946416143,62.1,11.0116427599545
+"Cloud",12,4,8,"Metalurgia",69.9,9.9634363768526,57.9,13.3751559189385,65.9,11.4841394411825
+"Cloud",20.6,23.7,-3.1,"Fabricação de produtos de metal",72.1,9.05331154000034,51.5,13.1023750493289,48.4,13.6057956158657
+"Cloud",13.1,-4.1,17.2,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",80.8,8.81772687184539,67.7,11.6994927636357,84.9,8.03044123796784
+"Cloud",16.3,6.3,10,"Fabricação de máquinas, aparelhos e materiais elétricos",76.4,8.2632761599163,60.1,11.2805396044683,70.1,9.46808832946319
+"Cloud",19.2,13.9,5.3,"Fabricação de máquinas e equipamentos",75.7,6.51733354294123,56.5,9.80325121740867,61.8,8.91008943888235
+"Cloud",19.5,12.3,7.2,"Fabricação de veículos automotores, reboques e carrocerias",67.5,9.87249781793988,48,13.7907465942786,55.2,12.3309090886621
+"Cloud",19.3,9.2,10.1,"Fabricação de outros equipamentos de transporte",83.6,16.3972821560788,64.3,21.896086480309,74.4,19.364113122435
+"Cloud",17.7,7.7,10,"Fabricação de móveis",64.9,10.385837173764,47.2,14.5057529370362,57.2,11.8016799733935
+"Cloud",18,10.8,7.2,"Fabricação de produtos diversos",65.6,11.9324849100308,47.6,15.4512609791998,54.8,14.1415434197654
+"Cloud",17.8,14.1,3.7,"Manutenção, reparação e instalação de máquinas e equipamentos",69.1,15.3690681128497,51.3,20.2285325677403,55,18.9987791387679
+"IA",12.5,6.9,5.6,"Fabricação de produtos alimentícios",35.6,12.2713438703314,23.1,16.4018558864078,28.7,14.3085662418067
+"IA",12,8.3,3.7,"Fabricação de bebidas",19.8,30.9339599185904,7.8,47.0652336530304,11.5,46.0839729045844
+"IA",18.3,9.2,9.1,"Fabricação de produtos do fumo",22.9,16.9932355211115,4.6,0,13.7,24.3757474709054
+"IA",20.5,2,18.5,"Fabricação de produtos têxteis",30.9,21.3713559579472,10.4,38.5332079592107,28.9,22.5958987971123
+"IA",13.1,0.6,12.5,"Confecção de artigos do vestuário e acessórios",38.2,19.0534904298266,25.1,25.8327036891562,37.6,19.3322931091394
+"IA",11.5,3.6,7.9,"Preparação de couros e fabricação de artefatos de couro, artigos de viagem e calçados",16.4,27.0689986845384,4.9,15.2024370392654,12.8,26.625070928876
+"IA",12.8,4.8,8,"Fabricação de produtos de madeira",22.4,27.185133367016,9.6,43.5025387192805,17.6,32.1932187446419
+"IA",8.4,10.8,-2.4,"Fabricação de celulose, papel e produtos de papel",29.7,20.6765971514808,21.3,25.9641374311203,18.9,29.5989063787787
+"IA",-7,-4.4,-2.6,"Impressão e reprodução de gravações",28.7,22.4195571993652,35.7,19.6341255642202,33.1,20.4119239484156
+"IA",9,5.8,3.2,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",36.2,19.531439623934,27.2,22.9013484722471,30.4,22.1807049568473
+"IA",21,5.7,15.3,"Fabricação de produtos químicos",54,12.312960603352,33,18.1962724813405,48.3,13.3227800677326
+"IA",20.1,12.9,7.2,"Fabricação de produtos farmoquímicos e farmacêuticos",53.2,15.5534009228709,33.1,21.5372924897575,40.3,18.2974685712776
+"IA",16.2,10.1,6.1,"Fabricação de artigos de borracha e plástico",34.7,15.5997916254166,18.5,23.8668921017335,24.6,20.4226284820739
+"IA",18.7,12.5,6.2,"Fabricação de produtos de minerais não-metálicos",46.3,14.2616967550054,27.6,20.8234997306421,33.8,18.131861487944
+"IA",4.1,0.7,3.4,"Metalurgia",43.6,15.6632339225191,39.5,17.4098094489829,42.9,15.8290290933083
+"IA",13.7,15.8,-2.1,"Fabricação de produtos de metal",30.8,19.3565662584625,17.1,24.7971785641117,15,26.3287383608883
+"IA",36.4,3.5,32.9,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",63.7,12.622803964764,27.3,24.1604263143563,60.2,13.6456994681161
+"IA",17.1,7.1,10,"Fabricação de máquinas, aparelhos e materiais elétricos",50.4,13.3963461047732,33.3,18.0413989050711,43.3,15.3335063853216
+"IA",21.5,3.4,18.1,"Fabricação de máquinas e equipamentos",44.3,12.6873121038388,22.8,20.7260999102695,40.9,13.4750587329786
+"IA",12.7,5.6,7.1,"Fabricação de veículos automotores, reboques e carrocerias",35,16.2462744882967,22.3,21.8796059551099,29.4,18.6961195723548
+"IA",20.6,5.5,15.1,"Fabricação de outros equipamentos de transporte",31.8,37.6584601037131,11.2,56.4335682066108,26.3,37.6117884855136
+"IA",12.7,1.6,11.1,"Fabricação de móveis",26.9,23.3170277946324,14.2,34.2483812667138,25.3,24.1415417080939
+"IA",28.8,6.9,21.9,"Fabricação de produtos diversos",37.4,19.4838504658326,8.6,37.186195668475,30.5,22.8722201509411
+"IA",6.7,1.5,5.2,"Manutenção, reparação e instalação de máquinas e equipamentos",18.5,40.5442752569562,11.8,51.9075022735108,17,43.9646713648619
+"IoT",-11.8,2.2,-14,"Fabricação de produtos alimentícios",37.5,12.6227604573873,49.3,9.85558793597603,35.3,12.8301215389592
+"IoT",2.8,1.5,1.3,"Fabricação de bebidas",29.3,32.9195642015827,26.5,31.8787665733679,27.8,31.4774504197578
+"IoT",0,9.1,-9.1,"Fabricação de produtos do fumo",18.3,18.2818106031795,18.3,13.5581536136673,9.2,27.1163072273338
+"IoT",2.3,11.9,-9.6,"Fabricação de produtos têxteis",40.1,17.5976300331252,37.8,18.3807366659361,28.2,22.757353268386
+"IoT",-2.6,3.5,-6.1,"Confecção de artigos do vestuário e acessórios",41.7,19.0481043155753,44.3,18.1513548840016,38.2,19.9524886748737
+"IoT",-1.1,2.5,-3.6,"Preparação de couros e fabricação de artefatos de couro, artigos de viagem e calçados",41,18.3198712881227,42.1,18.1516535401995,38.5,18.988870985632
+"IoT",-12.8,0.6,-13.4,"Fabricação de produtos de madeira",18.2,34.0847431272486,31,24.284131113285,17.6,34.8242275001672
+"IoT",-11.9,-1.1,-10.8,"Fabricação de celulose, papel e produtos de papel",24,26.1065749146479,35.9,19.4888997919307,25.1,24.7465345417349
+"IoT",2.6,3.7,-1.1,"Impressão e reprodução de gravações",36.9,19.1996942971969,34.3,20.0119564943503,33.2,21.3792933537435
+"IoT",-16,-0.9,-15.1,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",43.1,16.1893970030595,59.1,12.5353043005915,44,15.9858457918778
+"IoT",-6.9,0.7,-7.6,"Fabricação de produtos químicos",40.9,15.6209534852112,47.8,13.3382925633174,40.2,15.3639493113574
+"IoT",-23.4,-8.3,-15.1,"Fabricação de produtos farmoquímicos e farmacêuticos",35.2,21.5927548947339,58.6,13.8095328044691,43.5,17.9064664472459
+"IoT",-3.3,-3.1,-0.2,"Fabricação de artigos de borracha e plástico",29.6,18.1401107564799,32.9,16.8925738480673,32.7,17.0486983353331
+"IoT",-3.3,11.9,-15.2,"Fabricação de produtos de minerais não-metálicos",31.6,19.4940852652724,34.9,17.6388359389644,19.7,25.7308749719842
+"IoT",-12.9,-7.2,-5.7,"Metalurgia",25.1,27.9272537677651,38,19.6879509983988,32.3,22.797866965268
+"IoT",-0.8,12.5,-13.3,"Fabricação de produtos de metal",37.1,17.206044769727,37.9,16.5392269430086,24.6,21.1397308224011
+"IoT",-10.2,-8.5,-1.7,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",42.4,19.7001889213418,52.6,15.4966299774643,50.9,16.2712833085746
+"IoT",-12.5,-2,-10.5,"Fabricação de máquinas, aparelhos e materiais elétricos",25.3,23.518710323919,37.8,16.3444028294313,27.3,21.3047413063206
+"IoT",-5.1,-9,3.9,"Fabricação de máquinas e equipamentos",48,11.695927693343,53.1,10.4017630260744,57,9.71086740954549
+"IoT",0.2,2.4,-2.2,"Fabricação de veículos automotores, reboques e carrocerias",26.7,20.0087077422903,26.5,18.1437429315077,24.3,20.6328501985765
+"IoT",-1.3,13.8,-15.1,"Fabricação de outros equipamentos de transporte",39.3,26.2403399487667,40.6,25.1245168880012,25.5,27.2412600611809
+"IoT",2.5,3.4,-0.9,"Fabricação de móveis",39.3,17.3623131020154,36.8,17.81521709171,35.9,18.7626536181089
+"IoT",5.1,2.5,2.6,"Fabricação de produtos diversos",38,19.2303028789666,32.9,20.0154843572047,35.5,19.0522352477914
+"IoT",11.1,6.9,4.2,"Manutenção, reparação e instalação de máquinas e equipamentos",33.6,30.3633164675647,22.5,35.2706089107924,26.7,34.7911282856375
+"Manufatura aditiva",-3.4,-5.6,2.2,"Fabricação de produtos alimentícios",0.3,16.1930024470946,3.7,40.8921092750107,5.9,30.0532786823912
+"Manufatura aditiva",-15.5,-6.5,-9,"Fabricação de bebidas",0,NA,15.5,32.1387524500013,6.5,56.289987552695
+"Manufatura aditiva",0,-4.6,4.6,"Fabricação de produtos do fumo",0,NA,0,NA,4.6,0
+"Manufatura aditiva",-4.6,0.7,-5.3,"Fabricação de produtos têxteis",1.4,79.2981899686345,6,53.730825669039,0.7,0
+"Manufatura aditiva",-3.4,-3.6,0.2,"Confecção de artigos do vestuário e acessórios",3.2,83.7466873801453,6.6,53.2479847954389,6.8,52.0663671474335
+"Manufatura aditiva",-9.4,-33,23.6,"Preparação de couros e fabricação de artefatos de couro, artigos de viagem e calçados",2.6,0,12,34.8094719664037,35.6,20.3139955728654
+"Manufatura aditiva",-4.8,-8.7,3.9,"Fabricação de produtos de madeira",0,NA,4.8,66.7771935684961,8.7,51.1152589566812
+"Manufatura aditiva",-5.7,-7.9,2.2,"Fabricação de celulose, papel e produtos de papel",2.1,93.5888094177234,7.8,45.5793602191261,10,38.8286914527135
+"Manufatura aditiva",-5.1,-21.9,16.8,"Impressão e reprodução de gravações",4,82.5323827530658,9.1,49.2512234470985,25.9,26.8194479677629
+"Manufatura aditiva",-0.7,-0.7,0,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",2.7,67.3255611904514,3.4,54.2522615596205,3.4,54.2522615596205
+"Manufatura aditiva",-6.8,-14.4,7.6,"Fabricação de produtos químicos",0.9,0,7.7,26.7043872923892,15.3,25.449614793998
+"Manufatura aditiva",-6.8,-8.3,1.5,"Fabricação de produtos farmoquímicos e farmacêuticos",4.9,75.2719192517572,11.7,41.8321934200269,13.2,37.0815063258779
+"Manufatura aditiva",-12.9,-24.6,11.7,"Fabricação de artigos de borracha e plástico",3.5,59.8680629992762,16.4,25.4271628957361,28.1,17.7649628242296
+"Manufatura aditiva",-5.5,-11.2,5.7,"Fabricação de produtos de minerais não-metálicos",2.1,65.2009633978673,7.6,39.2346876643877,13.3,31.4072624007124
+"Manufatura aditiva",-8.3,-12.8,4.5,"Metalurgia",0.9,0,9.2,39.3767408524753,13.7,26.3665543558842
+"Manufatura aditiva",-10.1,-10.1,0,"Fabricação de produtos de metal",8.2,39.8069746879812,18.3,25.8872805666877,18.3,24.9532512654791
+"Manufatura aditiva",-30.3,-40.6,10.3,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",4.4,63.270994098989,34.7,22.4277355812209,45,18.019088031233
+"Manufatura aditiva",-15.1,-37.8,22.7,"Fabricação de máquinas, aparelhos e materiais elétricos",8,44.3411403408995,23.1,21.222283850716,45.8,14.3078415674995
+"Manufatura aditiva",-10.8,-26.2,15.4,"Fabricação de máquinas e equipamentos",11.4,33.1667372779354,22.2,20.5030337241628,37.6,14.5132652466788
+"Manufatura aditiva",-9.4,-22.6,13.2,"Fabricação de veículos automotores, reboques e carrocerias",7.4,32.4633869041566,16.8,22.7490205008804,30,18.3830785776549
+"Manufatura aditiva",-2.6,-31,28.4,"Fabricação de outros equipamentos de transporte",19.3,47.4557796207035,21.9,38.2896574317464,50.3,24.6968178626225
+"Manufatura aditiva",-5.7,-8.4,2.7,"Fabricação de móveis",10,42.1840487307464,15.7,30.2874637617561,18.4,27.5337835810883
+"Manufatura aditiva",-15.6,-40.3,24.7,"Fabricação de produtos diversos",2.2,25.0117682957311,17.8,34.9839626817615,42.5,18.7354679153601
+"Manufatura aditiva",-6.5,-6.8,0.3,"Manutenção, reparação e instalação de máquinas e equipamentos",5.4,0,11.9,40.0353083298309,12.2,39.0941086500216
+"Robótica",-16.9,-7.4,-9.5,"Fabricação de produtos alimentícios",5.6,30.9482101496806,22.5,15.2996157538188,13,21.1184928080281
+"Robótica",-8.7,-5.6,-3.1,"Fabricação de bebidas",12.9,51.2104511464276,21.6,33.8137292983321,18.5,39.6463433543559
+"Robótica",-18.3,0,-18.3,"Fabricação de produtos do fumo",0,NA,18.3,13.5581536136673,0,NA
+"Robótica",-6.2,0.2,-6.4,"Fabricação de produtos têxteis",9.2,45.6075469063741,15.4,33.1703528727916,9,46.7543851162594
+"Robótica",-12.7,-4.9,-7.8,"Confecção de artigos do vestuário e acessórios",11.4,43.7175865319104,24.1,27.5018364096018,16.3,35.857086588602
+"Robótica",-15.4,-11.2,-4.2,"Preparação de couros e fabricação de artefatos de couro, artigos de viagem e calçados",6.1,59.648184321266,21.5,26.5805676192284,17.3,30.9711362541023
+"Robótica",-9.7,2.1,-11.8,"Fabricação de produtos de madeira",13.1,42.9360645518128,22.8,29.8860497950902,11,43.9304703987789
+"Robótica",-13.6,-1.5,-12.1,"Fabricação de celulose, papel e produtos de papel",4.6,59.7748653939887,18.2,26.1342768024256,6.1,30.1108539865165
+"Robótica",-11.8,-10,-1.8,"Impressão e reprodução de gravações",1.2,0,13,35.3770351910648,11.2,41.6351142114927
+"Robótica",-15.8,-4,-11.8,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",20.8,28.9186200912104,36.6,20.6322383005972,24.8,25.5680283884647
+"Robótica",-16.7,-5.4,-11.3,"Fabricação de produtos químicos",8.5,42.1657337842558,25.2,20.3015589522279,13.9,25.6258885724544
+"Robótica",-16.3,0.3,-16.6,"Fabricação de produtos farmoquímicos e farmacêuticos",14.9,37.1012245060319,31.2,23.3113630612896,14.6,35.0155967809595
+"Robótica",-28.5,-4.6,-23.9,"Fabricação de artigos de borracha e plástico",12.5,30.9319125269364,41,13.8602174553063,17.1,26.3039337514082
+"Robótica",-21.6,-2.9,-18.7,"Fabricação de produtos de minerais não-metálicos",5.7,48.3967615142828,27.3,18.6563957070022,8.6,28.3921338820488
+"Robótica",-16.8,-1.5,-15.3,"Metalurgia",7.2,51.1980887678867,24,24.8181535242802,8.7,39.7279242876862
+"Robótica",-26.2,-13.2,-13,"Fabricação de produtos de metal",7.1,37.4661510928182,33.3,17.9471979574133,20.3,24.1127230212757
+"Robótica",-36,-23.6,-12.4,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",0.6,0,36.6,20.1433031873814,24.2,25.7980510369226
+"Robótica",-31.9,-19.7,-12.2,"Fabricação de máquinas, aparelhos e materiais elétricos",5.9,16.8732162249413,37.8,16.5026085307539,25.6,22.4029582673591
+"Robótica",-23.9,-14.9,-9,"Fabricação de máquinas e equipamentos",13,30.2590483343707,36.9,14.4498991951652,27.9,17.939458341536
+"Robótica",-29.6,-18,-11.6,"Fabricação de veículos automotores, reboques e carrocerias",18.8,24.3483572018228,48.4,12.6904259760856,36.8,16.1772080262393
+"Robótica",-37.6,-25.9,-11.7,"Fabricação de outros equipamentos de transporte",5,55.4382732502846,42.6,29.7360767006859,30.9,34.7227876316279
+"Robótica",-28.6,-12.4,-16.2,"Fabricação de móveis",8.7,41.1040210359896,37.3,17.939692141914,21.1,25.6189136766878
+"Robótica",-23.3,-10.7,-12.6,"Fabricação de produtos diversos",4,51.9032796707323,27.3,22.9832651288285,14.7,35.0939127986035
+"Robótica",-7.2,-5.5,-1.7,"Manutenção, reparação e instalação de máquinas e equipamentos",2.3,0,9.5,48.9440663029404,7.8,57.5475190684783
