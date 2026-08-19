@@ -1,4 +1,4 @@
-# PINTEC 2026 — Assimetria funcional na adoção de TDA
+# PINTEC Temática 2024 — Assimetria funcional na adoção de TDA
 
 Pipeline em R para leitura, processamento e análise de microdados da PINTEC
 Semestral Temática 2024 (IBGE/ABDI/UFRJ), investigando a assimetria funcional
