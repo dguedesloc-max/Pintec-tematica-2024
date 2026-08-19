@@ -42,19 +42,20 @@ dados_long <- assimetria_larga %>%
 # 2. Gráfico
 # -----------------------------------------------------------------------------
 
-# mesma paleta por função usada na Figura do objetivo (iv), para consistência
-# visual ao longo do paper -- o vermelho fica reservado para CNAE 26 nas
-# demais figuras, então aqui NÃO se usa vermelho como cor "genérica"
+# mesma paleta da Figura de grau de utilização (vermelho/cinza), para
+# consistência visual ao longo do paper -- vermelho fica reservado para a
+# categoria em destaque (aqui, Desenv. de projetos; na Fig. de grau de
+# utilização, CNAE 26)
 cores_funcao <- c(
   "Administração" = "#2c3e50",
   "Desenv. de projetos" = "#c0392b",
-  "Produção" = "#e67e22"
+  "Produção" = "#7f8c8d"
 )
 
 grafico_obj1 <- ggplot(dados_long, aes(x = funcao, y = valor, fill = funcao)) +
   geom_col(width = 0.65) +
-  geom_text(aes(label = round(valor, 1)), vjust = -0.4, size = 3.3) +
-  facet_wrap(~ tecnologia, ncol = 2, scales = "free_x") +
+  geom_text(aes(label = round(valor, 1)), vjust = -0.4, size = 4.5) +
+  facet_wrap(~ tecnologia, ncol = 3, scales = "free_x") +
   scale_fill_manual(values = cores_funcao, guide = "none") +
   scale_y_continuous(limits = c(0, NA), expand = expansion(mult = c(0, 0.15))) +
   labs(
@@ -65,11 +66,12 @@ grafico_obj1 <- ggplot(dados_long, aes(x = funcao, y = valor, fill = funcao)) +
   ) +
   theme_minimal(base_size = 12) +
   theme(
-    strip.text = element_text(face = "bold"),
+    strip.text = element_text(face = "bold", size = 17),
     panel.grid.minor = element_blank(),
     panel.grid.major.x = element_blank(),
-    axis.text.x = element_text(face = "bold", size = 9, angle = 20, hjust = 1, margin = margin(t = 2)),
-    panel.spacing.x = unit(1.5, "lines")
+    axis.text.x = element_text(face = "bold", size = 9.5, angle = 25, hjust = 1, margin = margin(t = 2)),
+    panel.spacing.x = unit(1.3, "lines"),
+    panel.spacing.y = unit(3, "lines")
   )
 
 print(grafico_obj1)
@@ -82,5 +84,5 @@ dir.create(here("output"), showWarnings = FALSE)
 ggsave(
   here("output", "figura_objetivo1_assimetria_funcional.png"),
   grafico_obj1,
-  width = 8, height = 10, dpi = 300
+  width = 12, height = 7.5, dpi = 300
 )
